@@ -22,7 +22,8 @@ The project reads the six files from `C:\sql\dwh_project\01_datasets\`. Put the 
 
 ---
 ## 🏗️ Data Architecture
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/3cd6e91a-60ea-4dee-9510-4e589e7bd7be" />
+<img width="1544" height="912" alt="data_architecture_anu" src="https://github.com/user-attachments/assets/d1b1b77a-8a80-4e56-9cc9-b45d00e15c4b" />
+
 
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
